@@ -1,0 +1,32 @@
+body {
+    font-family: Verdana, sans-serif;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: Garamond, serif;
+    color: darkcyan;
+}
+h1, h2, h3 {
+    font-weight: bold;
+}
+h4, h5, h6 {
+    font-weight: semibold;
+}
+
+ul {
+    list-style: square;
+}
+
+.recipe-main-img {
+    width: 500px;
+    height: auto;
+}
+
+.page-title {
+    background-color: #008b8b;
+    color:#fff;
+}
+
+.recipe-ingredients {
+    background-color:#ffefef;
+}
+
